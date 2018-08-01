@@ -1,0 +1,10 @@
+total 40
+drwxr-xr-x  8 somakanyasi  staff  256 Aug  1 12:34 images
+-rw-r--r--  1 somakanyasi  staff  251 Aug  1 12:50 README.md
+drwxr-xr-x  7 somakanyasi  staff  224 Aug  1 12:31 temp_images
+drwxr-xr-x  5 somakanyasi  staff  160 Aug  1 12:35 css
+-rw-r--r--  1 somakanyasi  staff  133 Aug  1 12:26 about.html
+-rw-r--r--  1 somakanyasi  staff  133 Aug  1 12:21 index.html
+-rw-r--r--  1 somakanyasi  staff   44 Aug  1 12:55 another_file.txt
+-rw-r--r--  1 somakanyasi  staff   44 Aug  1 13:00 tasks.txt
+-rw-r--r--  1 somakanyasi  staff    0 Aug  1 14:09 sorted_data.txt
